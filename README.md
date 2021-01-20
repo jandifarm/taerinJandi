@@ -1,16 +1,13 @@
-### 💚Welcome to Taerin's Jandi Farm!💚
+## 💚Welcome to Taerin's Jandi Farm!💚
 
 #   👩‍🌾 태린이의 잔디농장 👩‍🌾
 
 > 태린이의 잔디농장에 오신것을 환영합니다! 
+## [🌼잔디농장 바로가기🌼](https://github.com/hataerin/TIL)
 
+---
 
-
-### [🌼잔디농장 바로가기🌼](https://github.com/hataerin/TIL)
-
-
-
-#### 🌈잔디농장 규칙🌈
+## 🌈잔디농장 규칙🌈
 
 🥕 **운영기간** : 2021년 1월 20일 (수)
 
@@ -22,7 +19,7 @@
 
 
 
-### 🌞주간계획🌞
+## 🌞주간계획🌞
 
 <details>
 <summary> 1월 4주차 </summary>

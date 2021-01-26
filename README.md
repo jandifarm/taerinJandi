@@ -22,7 +22,7 @@
 ## 🌞주간계획🌞
 
 <details>
-<summary> 1월 4주차 (1/21 ~ 1/24) </summary>
+<summary> 1월 4주차 (1/21 ~ 1/23) </summary>
 <div markdown="1">
   
 ☁ [쉬는날] 1월 21일 (목) 
@@ -31,6 +31,20 @@
 - [ ] [SSAFY] WS 01-04, HW 01-05 문제풀이
 - [ ] [SSAFY] Live 수업 복습
 - [x] 깃헙 프로필 정리하기
+
+</div>
+</details>
+
+<details>
+<summary> 1월 5주차 (1/24 ~ 1/30) </summary>
+<div markdown="1">
+  
+☁ [쉬는날] 1월 25일 (월) 
+  
+- [ ] [Java] 인프런 강의 듣기 (~다형성/제어자)
+- [ ] [Java] 책 보기 (~다형성/제어자)
+- [ ] [SSAFY] WS 05, HW 06 문제풀이
+- [ ] [SSAFY] Live 수업 복습
 
 </div>
 </details>

@@ -49,3 +49,17 @@
 </div>
 </details>
 
+<details>
+<summary> 2월 1주차 (1/31 ~ 2/6) </summary>
+<div markdown="1">
+  
+☁ [쉬는날] 2월 0일 (월) 
+
+- [ ] [Algorithm] 하루에 한 문제씩 풀기
+- [ ] [SSAFY] 수업/보충 복습하기
+- [ ] [SSAFY] WS/HW 문제 다시 풀어보기 (01~08)
+- [ ] [Java] 혼공자 1회독 하기
+
+</div>
+</details>
+

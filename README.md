@@ -65,7 +65,7 @@
 <summary> 2월 2주차 (2/7 ~ 2/13) </summary>
 <div markdown="1">
   
-☁ [쉬는날] 2월 11,12일 (월) 
+☁ [쉬는날] 2월 11,12일 (목,금) 
 
 - [x] [SSAFY] 과제하기
 
@@ -76,11 +76,28 @@
 <summary> 2월 3주차 (2/14 ~ 2/20) </summary>
 <div markdown="1">
   
-☁ [쉬는날] 2월 18일 (월) 
+☁ [쉬는날] 2월 18일 (목) 
 
 - [ ] [Algorithm] 스터디 문제풀이
 - [ ] [SSAFY] Live복습 (1~8)
 - [ ] [SSAFY] WS/HW 문제풀이 (1~8)
+
+</div>
+</details>
+
+<details>
+<summary> 2월 4주차 (2/21 ~ 2/27) </summary>
+<div markdown="1">
+  
+☁ [쉬는날] 2월 0일 () 
+
+- [ ] [JAVA] 1~6일차 Live 복습
+- [ ] [JAVA] 문제풀이 (1~8)
+- [ ] [SSAFY] 디버깅 시험 공부
+- [ ] [Algorithm] Live 복습
+- [ ] [Algorithm] 문제풀이 (1~8)
+- [ ] [Algorithm] 스터디 문제풀이
+- [ ] [SSAFY] IM 시험 공부
 
 </div>
 </details>

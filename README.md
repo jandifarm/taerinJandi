@@ -91,12 +91,8 @@
   
 ☁ [쉬는날] 2월 0일 () 
 
-- [ ] [JAVA] 1~6일차 Live 복습
-- [ ] [JAVA] 문제풀이 (1~8)
-- [ ] [SSAFY] 디버깅 시험 공부
-- [ ] [Algorithm] Live 복습
-- [ ] [Algorithm] 문제풀이 (1~8)
-- [ ] [Algorithm] 스터디 문제풀이
+- [ ] [Algorithm] day 1~11
+- [ ] [Algorithm] 보충문제 풀기
 - [ ] [SSAFY] IM 시험 공부
 
 </div>

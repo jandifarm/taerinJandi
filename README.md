@@ -92,8 +92,8 @@
 ☁ [쉬는날] 2월 0일 () 
 
 - [ ] [Algorithm] day 1~11
-- [ ] [Algorithm] 보충문제 풀기
-- [ ] [SSAFY] IM 시험 공부
+- [x] [Algorithm] 보충문제 풀기
+- [x] [SSAFY] IM 시험 공부
 
 </div>
 </details>

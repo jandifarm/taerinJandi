@@ -89,7 +89,7 @@
 <summary> 2월 4주차 (2/21 ~ 2/27) </summary>
 <div markdown="1">
   
-☁ [쉬는날] 2월 0일 () 
+☁ [쉬는날] 없음
 
 - [ ] [Algorithm] day 1~11
 - [x] [Algorithm] 보충문제 풀기
